@@ -1,2 +1,0 @@
-# TestApp
-Sample Test App
